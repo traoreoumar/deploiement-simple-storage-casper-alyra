@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/deploiement-simple-storage-casper-alyra/static/css/main.b100e6da.chunk.css",
+    "main.js": "/deploiement-simple-storage-casper-alyra/static/js/main.e0e192b5.chunk.js",
+    "main.js.map": "/deploiement-simple-storage-casper-alyra/static/js/main.e0e192b5.chunk.js.map",
+    "runtime-main.js": "/deploiement-simple-storage-casper-alyra/static/js/runtime-main.b9e6726f.js",
+    "runtime-main.js.map": "/deploiement-simple-storage-casper-alyra/static/js/runtime-main.b9e6726f.js.map",
+    "static/js/2.e9829414.chunk.js": "/deploiement-simple-storage-casper-alyra/static/js/2.e9829414.chunk.js",
+    "static/js/2.e9829414.chunk.js.map": "/deploiement-simple-storage-casper-alyra/static/js/2.e9829414.chunk.js.map",
+    "index.html": "/deploiement-simple-storage-casper-alyra/index.html",
+    "precache-manifest.fd9bd0856016dd2d957fb50dd138c6b8.js": "/deploiement-simple-storage-casper-alyra/precache-manifest.fd9bd0856016dd2d957fb50dd138c6b8.js",
+    "service-worker.js": "/deploiement-simple-storage-casper-alyra/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/deploiement-simple-storage-casper-alyra/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9e6726f.js",
+    "static/js/2.e9829414.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.e0e192b5.chunk.js"
+  ]
+}
